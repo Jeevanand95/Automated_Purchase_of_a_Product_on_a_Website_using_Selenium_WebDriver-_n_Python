@@ -1,0 +1,1 @@
+[32mINFO    [0m test_frst:test_e2e.py:19 clicked

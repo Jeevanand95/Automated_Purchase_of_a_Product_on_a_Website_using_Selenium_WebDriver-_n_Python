@@ -1,0 +1,2 @@
+[32mINFO    [0m test_frst:test_home.py:19 new name is enterted
+[32mINFO    [0m test_frst:test_home.py:22 new name is enterted
