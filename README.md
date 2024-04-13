@@ -16,7 +16,7 @@ Setup
 -----
 ```
 Clone this repository to your local machine using Git.
-git clone https://github.com/yourusername/Automated_Purchase_of_a_Product_on_a_Website_using_Selenium_WebDriver-_n_Python.git
+git clone (https://github.com/yourusername/Automated_Purchase_of_a_Product_on_a_Website_using_Selenium_WebDriver-_n_Python.git)
 Install the required Python packages using pip.
 pip install -r requirements.txt
 Download the appropriate web driver for your browser and place it in the project directory.
