@@ -5,11 +5,13 @@ This repository contains a Python script for automating the purchase of a produc
 
 Requirements
 --------------
+'''
 Python 3.12.3
 Selenium WebDriver
 Web browser (Chrome, Firefox, etc.)
 Web driver for the chosen browser (ChromeDriver for Chrome, GeckoDriver for Firefox, etc.)
 Installed browser with access to the internet
+'''
 Setup
 -----
 Clone this repository to your local machine using Git.
