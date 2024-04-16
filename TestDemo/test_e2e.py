@@ -30,7 +30,8 @@ class TestEnd(BaseClass):
         confirmcheck.checkbox()
         confirmcheck.finalconfirm()
         confirmcheck.newmessage()
-        assert 'Succes!' in confirmcheck.newmessage()
+        assert 'Success!' in confirmcheck.newmessage()
+
 
 
 
